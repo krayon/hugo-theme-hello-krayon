@@ -1,10 +1,11 @@
-# Hello Friend NG
+# Hello Krayon
 
-![Hello Friend NG](https://dsh.re/d914c)
+## General information
 
-## General informations
-
-This theme was highly inspired by the [hello-friend](https://github.com/panr/hugo-theme-hello-friend) and [hermit](https://github.com/Track3/hermit). A lot of kudos for their great work.
+This theme was is based on
+[hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) which
+in turn is based on
+[hello-friend](https://github.com/panr/hugo-theme-hello-friend).
 
 ---
 
@@ -23,7 +24,6 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 - [Known issues](#known-issues)
 - [How to edit the theme](#how-to-edit-the-theme)
 - [Changelog](CHANGELOG.md)
-- [Sponsoring](#sponsoring)
 - [Licence](#licence)
 
 ---
@@ -43,18 +43,18 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 
 ## How to start
 
-You can download the theme manually by going to [https://github.com/rhazdon/hugo-theme-hello-friend-ng.git](https://github.com/rhazdon/hugo-theme-hello-friend-ng.git) and pasting it to `themes/hello-friend-ng` in your root directory.
+You can download the theme manually by going to [https://github.com/krayon/hugo-theme-hello-krayon.git](https://github.com/krayon/hugo-theme-hello-krayon.git) and pasting it to `themes/hello-krayon` in your root directory.
 
 You can also clone it directly to your Hugo folder:
 
 ``` bash
-$ git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git clone https://github.com/krayon/hugo-theme-hello-krayon.git themes/hello-krayon
 ```
 
 If you don't want to make any radical changes, it's the best option, because you can get new updates when they are available. To do so, include it as a git submodule:
 
 ``` bash
-$ git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git submodule add https://github.com/krayon/hugo-theme-hello-krayon.git themes/hello-krayon
 ```
 
 ## How to configure
@@ -67,7 +67,7 @@ Note: There are more options to configure. Take a look into the `config.toml` in
 baseurl      = "localhost"
 title        = "My Blog"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-krayon"
 paginate     = 10
 
 [params]
@@ -194,13 +194,8 @@ Either you comment it out completely or you write the following in
 
 Just edit it. You don't need any node stuff. ;)
 
-## Sponsoring
-
-If you like my work and if you think this project is worth to support it, just <br />
-<a href="https://www.buymeacoffee.com/djordjeatlialp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 ## Licence
 
-Copyright © 2019-2021 Djordje Atlialp
+Copyright © 2021-2022 Krayon
 
-The theme is released under the MIT License. Check the [original theme license](https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md) for additional licensing information.
+The theme is released under the MIT License. Check the [original theme license](https://github.com/krayon/hugo-theme-hello-krayon/blob/main/LICENSE.md) for additional licensing information.
