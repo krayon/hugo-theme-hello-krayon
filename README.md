@@ -5,7 +5,8 @@
 This theme was is based on
 [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) which
 in turn is based on
-[hello-friend](https://github.com/panr/hugo-theme-hello-friend).
+[hello-friend](https://github.com/panr/hugo-theme-hello-friend) and
+[hermit](https://github.com/Track3/hermit) .
 
 ---
 
